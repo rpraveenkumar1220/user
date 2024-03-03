@@ -17,5 +17,6 @@ pipeline {
         {
         echo "Publish Artifacts"
         }
+   }
 
 }
